@@ -171,3 +171,11 @@ Now select text in any app and press **Cmd+Shift+R**.
 ## License
 
 No license file is currently included. Add one (e.g. MIT) before sharing if you intend others to reuse the code.
+
+
+---
+
+## 💼 Hire the author
+Built by **Elijah** — I build custom MCP servers, Python automations, web scrapers, and AI chatbots. Fixed-price from $85, working sample before you pay.
+- **Upwork:** https://www.upwork.com/freelancers/~01818ac5bd67ef7935
+- **Email:** workblock100@gmail.com
